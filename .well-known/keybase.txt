@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tsanghan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tsanghan.github.io
+  * I am tsanghan (https://keybase.io/tsanghan) on keybase.
+  * I have a public key ASAThvUOS0F67WgUnJcTlsEu6QcRT4dY9WFDDF4L0FXzJQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201386f50e4b417aed68149c971396c12ee907114f8758f561430c5e0bd055f3250a",
+      "host": "keybase.io",
+      "kid": "01201386f50e4b417aed68149c971396c12ee907114f8758f561430c5e0bd055f3250a",
+      "uid": "d1dd006cc994da55bebbdac20a97a519",
+      "username": "tsanghan"
+    },
+    "merkle_root": {
+      "ctime": 1589715717,
+      "hash": "7a289d251536e94414487dddc443a0b1aadab3ce3f24d163e135c86910aee9d668a7ea86476a41f1d44c50d1c65b0e83decf180466ade391d83ea4546af450f7",
+      "hash_meta": "4170b0f8b7f00cd008076e070e46b20ecf7f784c444abed9df4311559471d97f",
+      "seqno": 16323446
+    },
+    "service": {
+      "entropy": "QGD/VcX4IMUgT4rAUHJ1dbK6",
+      "hostname": "tsanghan.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1589715763,
+  "expire_in": 504576000,
+  "prev": "437c3d705f3b320972f847ae74de85177f4837d3dfa2f9ddbef7d87a6b0d8e60",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE4b1DktBeu1oFJyXE5bBLukHEU+HWPVhQwxeC9BV8yUKp3BheWxvYWTESpcCEsQgQ3w9cF87Mgly+EeudN6FF39IN9PfovndvvfYemsNjmDEIEkLgLh7fQd1QB+6I+8C2b/+UTdJtcXMe9MImEfNWU+3AgHCo3NpZ8RA7wvl9vU7S/MGRp7n19L3EcZWi/U4dI7cpNWeha8BymM/Re0GqRn4a9sYeCFf1bzn3lO4tJ71Q0yjuGQkw6+7AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJhX7hpuEDGokFRwGZzRr+CxNfUtiOJ7W0KQDL6Gmr9jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tsanghan
+
+==================================================================
